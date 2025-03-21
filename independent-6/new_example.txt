@@ -1,0 +1,11 @@
+UNIGINE 2.19 3D engine released
+
+Large-scale optimization (CPU, RAM, VRAM, loading time)
+Multiple reflections for dynamic Environment Probe
+OpenXR support
+Improvements to the animation system (experimental)
+USD export support
+Many editor improvements
+SpiderVision plugin for displaying images on multi-monitor systems and curved screens
+.NET 8 integration
+Video streaming via WebRTC (experimental)
